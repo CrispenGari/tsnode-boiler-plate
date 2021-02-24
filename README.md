@@ -7,7 +7,7 @@ This is a boiler plate for typescript and node.js
 > To use this boiler plate clone this repository by running the following command
 
 ```shell
-$ git clone https://github.com/
+$ git clone https://github.com/CrispenGari/tsnode-boiler-plate
 ```
 
 > Navigate to the boiler-plate folder by running the following command
